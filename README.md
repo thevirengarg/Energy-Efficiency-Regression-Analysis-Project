@@ -1,4 +1,4 @@
-# Energy-Efficiency-Regression-Analysis-Project
+# Energy Efficiency Regression Analysis Project
 
 This project aims to analyze the heating and cooling load requirements (energy efficiency) of buildings using various architectural parameters such as building shape, glazing area, orientation, and others. The analysis is performed using machine learning regression techniques on a dataset containing 768 samples and 8 features.
 
